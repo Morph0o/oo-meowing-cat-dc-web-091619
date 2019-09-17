@@ -1,4 +1,4 @@
 class Cat 
-attr_acessor = name
+attr_accessor = name
 
 end
